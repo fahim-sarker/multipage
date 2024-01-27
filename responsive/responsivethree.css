@@ -1,0 +1,608 @@
+@media(min-width:576px) and (max-width:767px){
+    .fa-solid, .fab, .far, .fas{
+        color: yellow;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 120px;
+    background-color: black;
+}
+.ban-text h2 {
+    font-size: 40px;
+}
+.ban-img {
+    padding: 100px 0 86px 0;
+    text-align: center;
+}
+#bt {
+    padding: 50px 0;
+}
+.bt-text h2 {
+    font-size: 40px;
+    padding: 80px 0 50px 0;
+}
+.bt-card img {
+    width: 32.001px;
+    height: 32px;
+    margin-top: 40px;
+    margin-left: 220px;
+}
+.bt-card h3 {
+    text-align: center;
+    padding: 10px 0;
+}
+.bt-card p {
+    font-size: 14px;
+    text-align: center;
+}
+#ot {
+    padding: 60px 0 60px 0;
+}
+.ot-text h2 {
+    font-size: 31px;
+    line-height: 50px;
+}
+.ot-text p {
+    font-size: 13px;
+    line-height: 25px;
+}
+#om {
+    padding: 40px 0;
+}
+.om-text-1 h2 {
+    font-size: 30px;
+    line-height: 45px;
+}
+.om-text-1 p {
+    font-size: 13px;
+    line-height: 25px;
+}
+#om2 {
+    padding: 90px 0;
+}
+.om-text h2 {
+    font-size: 26px;
+    line-height: 45px;
+}
+.om-text p {
+    font-size: 13px;
+    line-height: 25px;
+}
+#om3 {
+    padding: 40px 0;
+}
+.om-text-2 h2 {
+    font-size: 30px;
+    line-height: 50px;
+}
+.om-text-2 p {
+    font-size: 13px;
+    line-height: 25px;
+}
+.ac-text {
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+.ac-text h3 {
+    font-size: 30px;
+}
+.ac-click {
+    padding: 50px 0;
+}
+.h3, h3 {
+    font-size: 20px;
+}
+strong {
+    font-size: 15px;
+    padding: 10px 3px;
+}
+.cp-text h6 {
+    font-size: 15px;
+    margin-left: 10px;
+}
+.cp-menu ul li a {
+    font-size: 12px;
+    padding: 0 5px;
+}
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .fa-solid, .fab, .far, .fas{
+        color: blue;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: burlywood;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 120px;
+    background-color: black;
+}
+.ban-text h2 {
+    font-size: 40px;
+}
+.ban-img {
+    padding: 100px 0 86px 0;
+    text-align: center;
+}
+#bt {
+    padding: 50px 0;
+}
+.bt-text h2 {
+    font-size: 40px;
+    padding: 80px 0 50px 0;
+}
+.bt-card img {
+    margin-top: 28px;
+    margin-left: 89px;
+}
+.bt-card h3 {
+    text-align: center;
+    padding: 10px 0;
+    font-size: 18px;
+}
+.bt-card p {
+    font-size: 12px;
+    text-align: center;
+}
+#ot {
+    padding: 20px 0 50px 0;
+}
+.ot-text h2 {
+    font-size: 29px;
+    line-height: 45px;
+}
+#om {
+    padding: 40px 0;
+}
+.om-text-1 h2 {
+    font-size: 30px;
+    line-height: 45px;
+}
+.om-text-1 p {
+    font-size: 13px;
+    line-height: 25px;
+}
+#om2 {
+    padding: 90px 0;
+}
+.om-text h2 {
+    font-size: 26px;
+    line-height: 45px;
+}
+.om-text p {
+    font-size: 13px;
+    line-height: 25px;
+}
+#om3 {
+    padding: 40px 0;
+}
+.om-text-2 h2 {
+    font-size: 30px;
+    line-height: 50px;
+}
+.om-text-2 p {
+    font-size: 13px;
+    line-height: 25px;
+}
+.ac-text {
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+.ac-text h3 {
+    font-size: 30px;
+}
+.ac-click {
+    padding: 50px 0;
+}
+.h3, h3 {
+    font-size: 20px;
+}
+strong {
+    font-size: 15px;
+    padding: 10px 3px;
+}
+.ftr-bottom {
+    padding: 17px 137px 16px 18px;
+}
+.ftr-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-right h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right i {
+    padding-bottom: 20px;
+}
+.ftr-left h5 {
+    font-size: 15px;
+    line-height: 15px;
+}
+.ftr-left h6 {
+    font-size: 15px;
+    line-height: 5px;
+}
+.ftr-right-1 h5 {
+    font-size: 15px;
+    line-height: 10px;
+}
+.ftr-right-1 h6 {
+    font-size: 15px;
+    line-height: 10px;
+}
+.cp{
+    padding: 20px 0;
+}
+.cp-text h6 {
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+.cp-menu ul li a {
+    font-size: 15px;
+    padding: 0 10px;
+}
+}
+
+
+
+@media(max-width:575px){
+    .fa-solid, .fab, .far, .fas {
+        color: red;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 35px;
+    background-color: black;
+}
+.ban-text {
+    margin-top: 50px;
+}
+.ban-text h2 {
+    font-size: 30px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.ftr-bottom {
+    padding: 17px 60px 16px 18px;
+}
+.ftr-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-right h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right i {
+    padding-bottom: 20px;
+}
+.ftr-left h5 {
+    font-size: 12px;
+    line-height: 15px;
+}
+.ftr-left h6 {
+    font-size: 10px;
+    line-height: 5px;
+}
+.ftr-right-1 h5 {
+    font-size: 12px;
+    line-height: 10px;
+}
+.ftr-right-1 h6 {
+    font-size: 10px;
+    line-height: 10px;
+}
+#cp {
+    padding: 10px 0;
+}
+.cp-menu ul {
+    margin-left: -35px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}  
+.cp-menu ul li a {
+    font-size: 12px;
+    padding: 0px 4px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.ftr-bottom {
+    padding: 17px 60px 16px 18px;
+}
+.ftr-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-right h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right i {
+    padding-bottom: 20px;
+}
+.ftr-left h5 {
+    font-size: 12px;
+    line-height: 15px;
+}
+.ftr-left h6 {
+    font-size: 10px;
+    line-height: 5px;
+}
+.ftr-right-1 h5 {
+    font-size: 12px;
+    line-height: 10px;
+}
+.ftr-right-1 h6 {
+    font-size: 10px;
+    line-height: 10px;
+}
+#cp {
+    padding: 10px 0;
+}
+.cp-menu ul {
+    margin-left: -35px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}  
+.cp-menu ul li a {
+    font-size: 12px;
+    padding: 0px 4px;
+}
+.ban-text p {
+    font-size: 14px;
+    line-height: 25px;
+}
+.ban-img {
+    padding: 80px 0 80px 0;
+}
+#bt {
+    padding: 60px 0;
+}
+.bpe-img img{
+    width: 100%;
+}
+.bt-text h2 {
+    font-size: 28px;
+    padding: 65px 0 50px 0;
+}
+.bt-card img {
+    width: 20.001px;
+    height: 20px;
+    margin-left: 145px;
+}
+.bt-card h3 {
+    font-size: 20px;
+    text-align: center;
+}
+.bt-card p {
+    font-size: 12px;
+    padding: 0px 40px 20px 40px;
+    text-align: center;
+}
+#bt {
+    padding: 1px 0;
+}
+#ot {
+    padding: 35px 0 60px 0;
+}
+.ot-text h2 {
+    font-size: 19px;
+    line-height: 30px;
+}
+.ot-text p {
+    font-size: 12px;
+    line-height: 23px;
+}
+#om {
+    padding: 30px 0;
+}
+.om-text-1 h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.om-text-1 p {
+    font-size: 12px;
+    line-height: 20px;
+}
+#om2 {
+    padding: 69px 0;
+}
+.om-text h2 {
+    font-size: 20px;
+    line-height: 35px;
+}
+.om-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+#om3 {
+    padding: 20px 0;
+}
+.om-text-2 h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.om-text-2 p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ac-text {
+    padding-top: 40px;
+    padding-bottom: 1px;
+}
+.ac-text h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.ac-click {
+    padding: 50px 0;
+}
+.h3, h3 {
+    font-size: 15px;
+}
+strong {
+    font-size: 10px;
+    padding: 0px 20px;
+    line-height: 2px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.ftr-bottom {
+    padding: 17px 60px 16px 18px;
+}
+.ftr-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-right h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right i {
+    padding-bottom: 20px;
+}
+.ftr-left h5 {
+    font-size: 12px;
+    line-height: 15px;
+}
+.ftr-left h6 {
+    font-size: 10px;
+    line-height: 5px;
+}
+.ftr-right-1 h5 {
+    font-size: 12px;
+    line-height: 10px;
+}
+.ftr-right-1 h6 {
+    font-size: 10px;
+    line-height: 10px;
+}
+#cp {
+    padding: 10px 0;
+}
+.cp-menu ul {
+    margin-left: -35px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}  
+.cp-menu ul li a {
+    font-size: 12px;
+    padding: 0px 4px;
+}
+}
+
+
+@media(min-width:992px) and (max-width:1200px){
+.ban-text{
+  margin-top: 120px;
+}
+.ban-text h2{
+  font-size: 55px;
+}
+.ban-img{
+  padding: 145px 0 157px 0;
+}
+.bt-text h2{
+  font-size: 38px;
+}
+.bt-card h3{
+  font-size: 20px;
+}
+.ot-text h2{
+  font-size: 30px;
+  line-height: 40px;
+  padding-bottom: 0px;
+}
+.om-text-1 h2{
+  font-size: 33px;
+  line-height: 50px;
+}
+.om-text-1 p{
+  font-size: 17px;
+}
+.om-text h2{
+  font-size: 31px;
+  line-height: 50px;
+}
+.om-text-2 h2{
+  font-size: 30px;
+  line-height: 40px;
+}
+.ac-text h3{
+  font-size: 25px;
+  line-height: 40px;
+}
+.ac-text a{
+  font-size: 17px;
+}
+
+.ftr-right-1 h6 {
+    font-size: 14px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}
+.cp-menu ul li a
+{
+  font-size: 14px;
+}
+.ftr-bottom{
+  padding: 17px 50px 16px 37px;
+}
+.ftr-right p{
+  font-size: 14px;
+  line-height: 20px;
+}
+}

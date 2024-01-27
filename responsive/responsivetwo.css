@@ -1,0 +1,457 @@
+@media(min-width:576px) and (max-width:767px){
+    .fa-solid, .fab, .far, .fas {
+        color: red;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 120px;
+    background-color: black;
+}
+#ot {
+    padding: 60px 0 60px 0;
+}
+.ot-text a{
+    margin-left: 200px;  
+}
+.ot-text h2 {
+    font-size: 30px;
+    text-align: center;
+}
+.ot-text p {
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+  }
+.who-text h6 {
+    text-align: center;
+} 
+.who-text h2 {
+    text-align: center;
+  }
+.who-text p {
+    font-size: 12px;
+    text-align: center;
+}  
+.who-text-1 h2 {
+    font-size: 27px;
+    text-align: center;
+}  
+.who-text-1 p {
+    font-size: 12px;
+    text-align: center;
+}  
+#tp{
+    padding: 60px 0;
+}
+.tp-text h2 {
+    font-size: 40px;
+}  
+#om {
+    padding: 70px 0;
+}
+.om-text h4 {
+    text-align: center;
+}
+.om-text h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.om-text p {
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+.om-text-1 h5{
+    text-align: center;
+}
+.om-text-1 h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.om-text-1 p{
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+#bt {
+    padding: 70px 0;
+}
+.bt-text h2 {
+    font-size: 33px;
+    padding-bottom: 40px;
+}
+.bt-card {
+    text-align: center;
+}
+.bt-card img {
+    margin-top: 25px;
+    margin-left: 0px;
+}
+.bt-card p {
+    font-size: 15px;
+    text-align: center;
+}
+#mo {
+    padding: 90px 0;
+}
+.ftr-text p {
+    font-size: 13px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.cp-menu ul li a {
+    font-size: 12px;
+    padding: 0px 2px;
+}
+.cp-text h6 {
+    font-size: 13px;
+}
+
+
+
+
+}
+@media(min-width:768px) and (max-width:991px){
+    .fa-solid, .fab, .far, .fas {
+        color: blue;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 220px;
+    background-color: black;
+}
+#ot {
+    padding: 60px 0 60px 0;
+}
+.ot-text a {
+    margin-left: 290px;
+}
+.ot-text h2 {
+    font-size: 30px;
+    text-align: center;
+}
+.ot-text p {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+  }
+.who-text h6 {
+    text-align: center;
+} 
+.who-text h2 {
+    text-align: center;
+  }
+.who-text p {
+    font-size: 16px;
+    text-align: center;
+}  
+.who-text-1 h2 {
+    font-size: 27px;
+    text-align: center;
+}  
+.who-text-1 p {
+    font-size: 16px;
+    text-align: center;
+}  
+#tp{
+    padding: 60px 0;
+}
+.tp-text h2 {
+    font-size: 40px;
+}  
+#om {
+    padding: 70px 0;
+}
+.om-text h4 {
+    text-align: center;
+}
+.om-text h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.om-text p {
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+}
+.om-text-1 h5{
+    text-align: center;
+}
+.om-text-1 h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.om-text-1 p{
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+}
+#bt {
+    padding: 70px 0;
+}
+.bt-text h2 {
+    font-size: 33px;
+    padding-bottom: 40px;
+}
+.bt-card {
+    text-align: center;
+}
+.bt-card img {
+    margin-top: 25px;
+    margin-left: 0px;
+}
+.bt-card p {
+    font-size: 16px;
+}
+#mo {
+    padding: 90px 0;
+}
+.ftr-text p {
+    font-size: 13px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.cp-menu ul li a {
+    font-size: 14px;
+    padding: 0px 10px;
+}
+.cp-text h6 {
+    font-size: 11px;
+}
+}
+
+
+
+
+
+@media(max-width:575px){
+    .fa-solid, .fab, .far, .fas {
+        color: red;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 30px;
+    background-color: black;
+}
+#ot {
+    padding: 80px 0 80px 0;
+}
+.ot-text h2 {
+    font-size: 30px;
+}
+.ot-text p {
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+}
+#wwa {
+    padding: 40px 30px 40px 20px;
+}
+#tp {
+    padding: 60px 0;
+}
+.tp-text h2 {
+    font-size: 25px;
+    padding: 0 0 0 50px;
+}
+.tp-card img {
+    width: 15px;
+    height: 15px;
+    margin-top: 6px;
+}
+.tp-card {
+    margin-top: 30px;
+    padding: 0 0 0 50px;
+}
+.tpp-text{
+    padding: 0 0 0 50px;
+}
+.tpp-text p {
+    font-size: 16px;
+    line-height: 20px;
+}
+#om {
+    padding: 70px 0;
+}
+.om-text h2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+.om-text p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.om-text-1 h2 {
+    font-size: 35px;
+    line-height: 50px;
+}
+.om-text-1 p {
+    font-size: 15px;
+    line-height: 20px;
+}
+#bt {
+    padding: 60px 0;
+}
+.bt-text h2 {
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+.bt-card h3 {
+    font-size: 20px;
+    margin-left: 25px;
+}
+.bt-card p {
+    font-size: 14px;
+    margin-left: 25px;
+}
+.bt-card img {
+    width: 25px;
+    height: 25px;
+    margin-left: 70px;
+}
+.fs-text h2 {
+    font-size: 28px;
+}
+.fs-text-1 h5{
+    font-size: 13px;
+}
+.fs-text-1 h2{
+    font-size: 28px;
+}
+.bpe-img img {
+    margin-top: 40px;
+    width: 90%;
+}
+#mo {
+    padding: 60px 0;
+}
+.mo-text h3 {
+    font-size: 35px;
+    padding-bottom: 40px;
+}
+.mo {
+    padding: 20px 20px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.ftr-bottom {
+    padding: 17px 60px 16px 18px;
+}
+.ftr-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-right h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right i {
+    padding-bottom: 20px;
+}
+.ftr-left h5 {
+    font-size: 12px;
+    line-height: 15px;
+}
+.ftr-left h6 {
+    font-size: 10px;
+    line-height: 5px;
+}
+.ftr-right-1 h5 {
+    font-size: 12px;
+    line-height: 10px;
+}
+.ftr-right-1 h6 {
+    font-size: 10px;
+    line-height: 10px;
+}
+#cp {
+    padding: 10px 0;
+}
+.cp-menu ul {
+    margin-left: -35px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}  
+.cp-menu ul li a {
+    font-size: 12px;
+    padding: 0px 4px;
+}
+}
+
+
+
+@media(min-width:992px) and (max-width:1200px){
+.ot-text h2{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+.ot-text p{
+  font-size: 17px;
+}
+.who-text-1 h2{
+  color: #282938;
+  font-family: "Poppins", sans-serif;
+  font-size: 27px;
+  font-weight: 600;
+}
+.tp-text h2{
+  font-size: 40px;
+}
+.ftr-right-1 h6 {
+    font-size: 14px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}
+.cp-menu ul li a
+{
+  font-size: 14px;
+}
+.ftr-bottom{
+    padding: 17px 50px 16px 37px;
+}
+.ftr-right p{
+  font-size: 14px;
+  line-height: 20px;
+}
+}

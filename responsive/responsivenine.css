@@ -1,0 +1,258 @@
+@media(min-width:992px) and (max-width:1200px){
+    .lets-text h3
+{
+  color: #282938;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 43px;
+  font-weight: 600;
+  line-height: 60px;
+}
+.kp-menu ul li{
+  font-size: 16px;
+}
+.left h5{
+  font-size: 19px;
+}
+.fd-text h2{
+  font-size: 40px;
+}
+.ftr-right-1 h6 {
+    font-size: 14px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}
+.cp-menu ul li a{
+    font-size: 14px;
+}
+.ftr-bottom{
+     padding: 17px 50px 16px 37px;
+}
+.ftr-right p{
+    font-size: 14px;
+    line-height: 20px;
+}
+}
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    .fa-solid, .fab, .far, .fas {
+        color: #fff;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 120px;
+    background-color: black;
+}
+.fd-text h2 {
+    font-size: 34px;
+    line-height: 50px;
+}
+.left h5 {
+    font-size: 30px;
+}
+.left::after {
+    top: 112px;
+    height: 2px;
+    width: 500px;
+    background-color: chocolate;
+    top: 130px;
+}
+.abt-text-2 ul li {
+    font-size: 15px;
+}
+.abt-text ul li {
+    font-size: 15px;
+}
+.kp-menu ul li {
+    font-size: 15px;
+    padding: 0 5px;
+}
+#ab {
+    padding: 20px 0 20px 0;
+}
+.lets-text h3 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}
+.cp-menu ul li a {
+    font-size: 10px;
+    padding: 0 5px;
+}
+}
+
+
+@media(min-width:768px) and (max-width:991px){
+    .fa-solid, .fab, .far, .fas {
+        color: #fff;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 220px;
+    background-color: black;
+}
+.fd-text h2{
+    font-size: 40px;
+}
+.kp-menu ul li {
+    font-size: 17px;
+    padding: 0 8px;
+}
+.lets-text h3 {
+    font-size: 35px;
+}
+.lets-text a {
+    margin-left: 230px;
+}
+.cp-menu ul li a {
+    font-size: 14px;
+}
+}
+
+
+
+@media(max-width:575px){
+    .fa-solid, .fab, .far, .fas {
+        color: #fff;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 30px;
+    background-color: black;
+}
+#df {
+    padding: 70px 0 48px 0;
+}
+.fd-text h2 {
+    font-size: 32px;
+    line-height: 40px;
+}
+.left::after {
+    position: absolute;
+    content: '';
+    top: 130px;
+    left: 0;
+    height: 2px;
+    width: 300px;
+}   
+.abt-text ul li {
+    font-size: 11px;
+    line-height: 28px;
+    padding: 0px 0px;
+}
+.abt-text-2 ul li {
+    font-size: 11px;
+    line-height: 28px;
+    padding: 0px 0px;
+}
+#ab {
+    padding: 0 0;
+}
+#lets {
+    padding: 50px 0;
+}
+.kp-menu ul li {
+    font-size: 9px;
+    padding: 0 6px;
+}
+.lets-text h3 {
+    font-size: 31px;
+    line-height: 40px;
+}
+.lets-text a {
+    margin-left: 50px;
+    padding: 16px 56px 16px 43px;
+}
+.ftr-bottom {
+    padding: 17px 60px 16px 18px;
+}
+.ftr-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-right h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right i {
+    padding-bottom: 20px;
+}
+.ftr-left h5 {
+    font-size: 10px;
+    line-height: 15px;
+}
+.ftr-left h6 {
+    font-size: 10px;
+    line-height: 5px;
+}
+.ftr-right-1 h5 {
+    font-size: 10px;
+    line-height: 10px;
+}
+.ftr-right-1 h6 {
+    font-size: 10px;
+    line-height: 10px;
+}
+#cp {
+    padding: 10px 0;
+}
+.cp-text h6 {
+    font-size: 8px;
+    margin-left: 60px;
+}  
+.cp{
+    padding: 20px 0;
+}
+.cp-text h6 {
+    font-size: 10px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.cp-menu ul li a {
+    font-size: 8px;
+    padding: 0 2px;
+}
+}

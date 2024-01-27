@@ -1,0 +1,204 @@
+@media(min-width:992px) and (max-width:1200px){
+.ftr-right-1 h6 {
+    font-size: 14px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}
+.cp-menu ul li a{
+    font-size: 14px;
+}
+.ftr-bottom{
+     padding: 17px 50px 16px 37px;
+}
+.ftr-right p{
+     font-size: 14px;
+      line-height: 20px;
+}
+}
+
+
+
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    .fa-solid, .fab, .far, .fas {
+        color: #fff;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 120px;
+    background-color: black;
+}
+.pp-text h3 {
+    font-size: 40px;
+}
+.ux-text-down h3 {
+    text-align: center;
+}
+.ux-text-down p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ux-text-down h3 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ux-text-down p {
+    font-size: 11px;
+    line-height: 20px;
+}
+.ux-text-down ul li {
+    font-size: 12px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}
+.cp-menu ul li a {
+    font-size: 10px;
+    padding: 0px 5px;
+}
+}
+
+
+
+@media(min-width:768px) and (max-width:991px){
+    .fa-solid, .fab, .far, .fas {
+        color: #fff;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 220px;
+    background-color: black;
+}
+.pp-text p {
+    font-size: 20px;
+    line-height: 30px;
+}
+.ux-text-down h3 {
+    font-size: 34px;
+    line-height: 45px;
+}
+.cp-menu ul li a {
+    font-size: 14px;
+    padding: 0px 5px;
+}
+}
+
+
+@media(max-width:575px){
+    .fa-solid, .fab, .far, .fas {
+        color: #fff;
+}   
+.menu-bg ul{
+    padding-bottom: 30px;
+} 
+.menu-bg ul li a{
+   text-align: center;
+   padding: 10px 0 !important;
+   font-size: 20px;
+   background-color: #000;
+   border: 2px solid white;
+   border-radius: 10px;
+}   
+.menu-button a{
+    margin-left: 30px;
+    background-color: black;
+}
+#pp {
+    padding: 70px 0;
+}
+.pp-text h3 {
+    font-size: 35px;
+}
+.pp-text p {
+    font-size: 13px;
+    line-height: 24px;
+}
+.ux-text-down h3 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ux-text-down ul li {
+    font-size: 10px;
+}
+.ux-text-down p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right h2 {
+    font-size: 40px;
+}
+.ftr-bottom {
+    padding: 17px 60px 16px 18px;
+}
+.ftr-text p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-right h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.ftr-right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.ftr-right i {
+    padding-bottom: 20px;
+}
+.ftr-left h5 {
+    font-size: 12px;
+    line-height: 15px;
+}
+.ftr-left h6 {
+    font-size: 10px;
+    line-height: 5px;
+}
+.ftr-right-1 h5 {
+    font-size: 12px;
+    line-height: 10px;
+}
+.ftr-right-1 h6 {
+    font-size: 10px;
+    line-height: 10px;
+}
+#cp {
+    padding: 10px 0;
+}
+.cp-menu ul {
+    margin-left: -35px;
+}
+.cp-text h6 {
+    font-size: 14px;
+}  
+.cp-menu ul li a {
+    font-size: 12px;
+    padding: 0px 4px;
+}
+}
